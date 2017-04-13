@@ -2,7 +2,7 @@
 
 # Home-Maker
 
-Server for home automation using javscript
+Server for home automation using javascript
 
 # Task Board 
 
