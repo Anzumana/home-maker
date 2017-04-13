@@ -1,0 +1,22 @@
+{
+  "name": "home-maker",
+  "version": "1.0.0",
+  "description": "Server for home automation using javscript",
+  "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anzumana/home-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anzumana/home-maker/issues"
+  },
+  "homepage": "https://github.com/Anzumana/home-maker#readme",
+  "devDependencies": {
+    "jshint": "^2.9.4"
+  }
+}
